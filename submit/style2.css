@@ -1,0 +1,48 @@
+body{
+
+  font-family:sans-serif;
+}
+
+
+
+.one{
+  font-family: :Helvetica;
+  font-size:100px;
+  font-weight:bold;
+  color:khaki;
+  text-align:center;
+  background-image:url("./resources/pattern.jpeg");
+  height:140px;
+
+}
+.two{
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+  background-color:mediumspringgreen;
+  height:36px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.three{
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+  background-color:lightcoral;
+  height:36px;
+  margin-top:  20px;
+  margin-bottom: 20px;
+
+}
+.four{
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+  background-color:skyblue;
+  height:36px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
